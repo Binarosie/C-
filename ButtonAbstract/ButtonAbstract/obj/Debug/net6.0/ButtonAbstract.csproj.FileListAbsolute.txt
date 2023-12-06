@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\bin\Debug\net6.0\ButtonAbstract.exe
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\bin\Debug\net6.0\ButtonAbstract.deps.json
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\bin\Debug\net6.0\ButtonAbstract.runtimeconfig.json
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\bin\Debug\net6.0\ButtonAbstract.dll
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\bin\Debug\net6.0\ButtonAbstract.pdb
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\obj\Debug\net6.0\ButtonAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\obj\Debug\net6.0\ButtonAbstract.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\obj\Debug\net6.0\ButtonAbstract.AssemblyInfo.cs
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\obj\Debug\net6.0\ButtonAbstract.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\obj\Debug\net6.0\ButtonAbstract.dll
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\obj\Debug\net6.0\refint\ButtonAbstract.dll
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\obj\Debug\net6.0\ButtonAbstract.pdb
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\obj\Debug\net6.0\ButtonAbstract.genruntimeconfig.cache
+C:\Users\pc\Desktop\OOP\ButtonAbstract\ButtonAbstract\obj\Debug\net6.0\ref\ButtonAbstract.dll
