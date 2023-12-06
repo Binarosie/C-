@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9qSkBIHfoYUouUKPU/7lwc4Yk7a7LJPeJgUUd8midtnBdaHYPxOwxAmV0OaxhAyNHx4ue2wYOwYyfPCTbUP9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\OOP\\BankingFactory\\FactoryDrinking\\FactoryBanking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\nsubstitute\\5.1.0\\nsubstitute.5.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
